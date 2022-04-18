@@ -2,7 +2,7 @@ package class01;
 
 import java.util.HashMap;
 
-// leetcode 494题
+// https://leetcode-cn.com/problems/target-sum/
 public class Code07_TargetSum {
 
 	public static int findTargetSumWays1(int[] arr, int s) {
