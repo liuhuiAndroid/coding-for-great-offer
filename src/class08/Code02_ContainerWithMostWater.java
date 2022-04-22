@@ -1,6 +1,8 @@
 package class08;
 
 // 本题测试链接 : https://leetcode.com/problems/container-with-most-water/
+// 本题测试链接 : https://leetcode-cn.com/problems/container-with-most-water/
+// 左右指针*左右两边较小的值就是答案
 public class Code02_ContainerWithMostWater {
 
 	public static int maxArea1(int[] h) {

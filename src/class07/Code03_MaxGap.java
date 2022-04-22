@@ -1,6 +1,9 @@
 package class07;
 
 // 测试链接 : https://leetcode.com/problems/maximum-gap/
+// 给定一个数组arr，
+// 返回如果排序之后，相邻两数对最大差值
+// 要求：时间复杂度O(N)
 public class Code03_MaxGap {
 
 	public static int maximumGap(int[] nums) {

@@ -7,6 +7,7 @@ import java.util.List;
 import java.util.Map.Entry;
 import java.util.TreeMap;
 
+// 天际线问题
 // 本题测试链接 : https://leetcode.com/problems/the-skyline-problem/
 public class Code08_TheSkylineProblem {
 

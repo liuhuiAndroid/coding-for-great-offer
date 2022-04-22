@@ -1,7 +1,10 @@
 package class05;
 
-// 如果一个节点X，它左树结构和右树结构完全一样，那么我们说以X为头的子树是相等子树
-// 给定一棵二叉树的头节点head，返回head整棵树上有多少棵相等子树
+/**
+ * 如果一个节点X，它左树结构和右树结构完全一样，那么我们说以X为头的子树是相等子树
+ * 给定一棵二叉树的头节点head，返回head整棵树上有多少棵相等子树
+ * 二叉树的先序序列化，hash函数摘要
+ */
 public class Code02_LeftRightSameTreeNumber {
 
 	public static class Node {

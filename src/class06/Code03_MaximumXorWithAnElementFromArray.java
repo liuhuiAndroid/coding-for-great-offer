@@ -1,5 +1,6 @@
 package class06;
 
+// 测试链接 : https://leetcode-cn.com/problems/maximum-xor-with-an-element-from-array/
 // 测试链接 : https://leetcode.com/problems/maximum-xor-with-an-element-from-array/
 public class Code03_MaximumXorWithAnElementFromArray {
 

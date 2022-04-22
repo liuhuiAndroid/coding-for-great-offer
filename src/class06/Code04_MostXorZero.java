@@ -3,6 +3,11 @@ package class06;
 import java.util.ArrayList;
 import java.util.HashMap;
 
+/**
+ * 数组中所有数都异或起来的结果，叫做异或和
+ * 给定一个数组arr，可以任意切分成若干个不想交的子数组
+ * 其中一定存在一种最优方案，使得切出异或和为0的子数组最多返回这个多少数量
+ */
 public class Code04_MostXorZero {
 
 	// 暴力方法
