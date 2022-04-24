@@ -1,6 +1,7 @@
 package class10;
 
 // 本题测试链接 : https://leetcode-cn.com/problems/boolean-evaluation-lcci/
+// 记忆化搜索
 public class Code05_BooleanEvaluation {
 
 	public static int countEval0(String express, int desired) {
@@ -15,7 +16,9 @@ public class Code05_BooleanEvaluation {
 	}
 
 	public static class Info {
+		// 为true的方法数
 		public int t;
+		// 为false的方法数
 		public int f;
 
 		public Info(int tr, int fa) {

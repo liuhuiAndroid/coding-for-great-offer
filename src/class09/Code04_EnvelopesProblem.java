@@ -4,6 +4,8 @@ import java.util.Arrays;
 import java.util.Comparator;
 
 // 本题测试链接 : https://leetcode.com/problems/russian-doll-envelopes/
+// 本题测试链接 : https://leetcode-cn.com/problems/russian-doll-envelopes/
+// 排序：长度从小到大，长度一样高大到小 -> 从左到右比你高 -> 最长递增子序列
 public class Code04_EnvelopesProblem {
 
 	public static int maxEnvelopes(int[][] matrix) {
